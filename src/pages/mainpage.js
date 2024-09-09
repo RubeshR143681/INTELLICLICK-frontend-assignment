@@ -132,7 +132,7 @@ const Mainpage = () => {
   );
 
   return (
-    <div className="container mx-auto lg:p-[40px] p-[20px] bg-gray-300 h-screen">
+    <div className="container mx-auto lg:p-[40px] p-[20px] bg-gray-300 h-screen w-[100vw]">
       <h1 className="text-[19px] lg:text-[27px] font-semibold my-3 text-center">
         Weather Forecast Web Application
       </h1>
