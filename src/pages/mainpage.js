@@ -112,7 +112,7 @@ const Mainpage = () => {
 
   const menuStatus = [
     { id: "1", label: "Germany" },
-    { id: "2", label: "India" },
+    { id: "2", label: "Afghanistan" },
   ];
 
   const filterMenu = (
